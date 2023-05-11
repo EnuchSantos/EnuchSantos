@@ -11,8 +11,8 @@
 
 <div align="center">
   <a href="https://github.com/EnuchSantos">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EnuchSantos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnuchSantos&layout=compact&langs_count=6&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EnuchSantos&show_icons=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnuchSantos&layout=compact"/> 
 </div>
  
  <div align="center" style="display: inline_block"><br>
