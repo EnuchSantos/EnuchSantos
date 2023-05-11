@@ -4,14 +4,10 @@
 <br>
 <br>
 
-
-
 <div align="center"><sub>Focused on development with python</sub></div>
 
 <br>
 <br>
-
-
 
 <div align="center">
   <a href="https://github.com/EnuchSantos">
